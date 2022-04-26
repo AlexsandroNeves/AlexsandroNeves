@@ -1,4 +1,11 @@
-### Olá, eu sou Alexsandro Neves  👋
+### Olá, eu sou Alexsandro Neves - Desenvolvedor Front-end 😎
+
+Um pouco sobre mim:
+
+🔭Atualmente estou trabalhando na FG Agencia </br>
+🌱atualmente estou aprendendo React.js e Typescript </br>
+💬Pergunte-me sobre ... </br>
+⚡ Curiosidades: Gosto de estudar na Madrugada. </br>
 
 <div>
     <a href="https://github.com/AlexsandroNeves"></a>
@@ -7,18 +14,6 @@
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroNeves&show_icons=true&theme=dracula">
 </div>
-##
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-##
 
 <h3>Minhas Redes Sociais</h3>
 
@@ -56,6 +51,3 @@ Here are some ideas to get you started:
         alt="React">
 
 </div>
-
-##
-
