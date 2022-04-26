@@ -51,6 +51,5 @@ Um pouco sobre mim:
         alt="React">
 
 </div>
-
   ![Snake animation](https://github.com/AlexsandroNeves/AlexsandroNeves/blob/output/github-contribution-grid-snake.svg)
 
