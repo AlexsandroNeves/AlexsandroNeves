@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá, eu sou Alexsandro Neves  👋
 
+<div>
+    <a href="https://github.com/AlexsandroNeves"></a>
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=AlexsandroNeves&show_icons=true&theme=dracula">
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroNeves&show_icons=true&theme=dracula">
+</div>
+##
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,9 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+##
 
-<h1> Olá, eu sou Alexsandro Neves</h1>
+<h3>Minhas Redes Sociais</h3>
+
 <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="Whatsapp">
@@ -24,16 +33,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </div>
-##
-<div>
-    <a href="https://github.com/AlexsandroNeves"></a>
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=AlexsandroNeves&show_icons=true&theme=dracula">
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroNeves&show_icons=true&theme=dracula">
-</div>
 
 ##
+<h3>Tecnologias do meu dia a dia </h3>
 <div style="display: inline-block;">
     <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML">
