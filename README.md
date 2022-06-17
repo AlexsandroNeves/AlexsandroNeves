@@ -2,10 +2,9 @@
 
 Um pouco sobre mim:
 
-🔭Atualmente estou trabalhando na FG Agencia </br>
+🔭Atualmente estou trabalhando na FG Agência </br>
 🌱atualmente estou aprendendo React.js e Typescript </br>
 💬Pergunte-me sobre ... </br>
-⚡ Curiosidades: Gosto de estudar na Madrugada. </br>
 
 <div>
     <a href="https://github.com/AlexsandroNeves"></a>
