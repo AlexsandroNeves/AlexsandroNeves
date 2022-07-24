@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 
 🔭Atualmente estou trabalhando na FG Agência </br>
-🌱atualmente estou aprendendo React.js e Typescript </br>
+🌱atualmente estou aprendendo React.js, Typescript.js e Node.js </br>
 💬Pergunte-me sobre ... </br>
 
 <div>
