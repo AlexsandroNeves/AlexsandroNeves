@@ -2,8 +2,11 @@
 
 Um pouco sobre mim:
 
+Olá, tenho 25 anos e resido na cidade de Praia Grande-SP. No ano de 2016 me formei como técnico de Informática pelo Centro Paula Souza e no ano 2020 me formei em Análise e Desenvolvimento de Sistemas na Universidade Paulista, trabalho com desenvolvimento aproximadamente 3 anos. Durante esse tempo, trabalhei com diversas tecnologias.  
+
+
 🔭Atualmente estou trabalhando na FG Agência </br>
-🌱atualmente estou aprendendo React.js, Typescript.js e Node.js </br>
+🌱atualmente estou aprendendo  Node.js </br>
 💬Pergunte-me sobre ... </br>
 
 <div>
