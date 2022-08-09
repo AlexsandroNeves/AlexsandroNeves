@@ -53,6 +53,6 @@ Olá, tenho 25 anos e resido na cidade de Praia Grande-SP. No ano de 2016 me for
         alt="React">
 </div>
 <div> 
-
+ 
 <img src="https://github.com/AlexsandroNeves/AlexsandroNeves/blob/output/github-contribution-grid-snake.svg">
 </div>
