@@ -1,23 +1,29 @@
-### Olá, eu sou Alexsandro Neves - Desenvolvedor Front-end 😎
+<h1 align="center"> 👋 Olá, eu sou Alexsandro Neves 😎</h1>
 
-Um pouco sobre mim:
+<img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
-Olá, tenho 26 anos e resido na cidade de Praia Grande-SP. No ano de 2016 me formei como técnico de Informática pelo Centro Paula Souza e no ano 2020 me formei em Análise e Desenvolvimento de Sistemas na Universidade Paulista, trabalho com desenvolvimento aproximadamente 3 anos. Durante esse tempo, trabalhei com diversas tecnologias.  
+<p align="left"> 
+<h4>Um pouco sobre mim:</h4>
+
+Olá, tenho 26 anos e resido na cidade de Praia Grande-SP. Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista, trabalho com desenvolvimento aproximadamente 4 anos. Durante esse tempo, trabalhei com diversas tecnologias.  
+</p>
+
+<br>
+
+- :bulb: Frontend:<img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"><img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap" Title="Bootstrap"><img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=sass" Title="Sass"><img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">  <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=jquery" Title="Jquery"> <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts" Title="TypeScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js"> <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components"><img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind" Title="Tailwind">
+
+  ######
+  
+- 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" Title="Mongodb"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="Mysql">
+
+  ######
+ - Design:<img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=figma" Title="Figma"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=xd" Title="Xd">
+
+  ######
+ - Ecommerce:<img align="center" alt="Eduardo-Node" height="40" width="70" src="https://github.com/AlexsandroNeves/AlexsandroNeves/assets/53442386/e017e281-eff3-4814-aca9-1dbc8e14cbb1" Title="Vtex IO"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" Title="Wordpress">
 
 
-🔭Atualmente estou trabalhando na FG Agência </br>
-🌱atualmente estou aprendendo  Node.js </br>
-💬Pergunte-me sobre ... </br>
-
-<div>
-    <a href="https://github.com/AlexsandroNeves"></a>
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=AlexsandroNeves&show_icons=true&theme=dracula">
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroNeves&show_icons=true&theme=dracula">
-</div>
-
-<h3>Minhas Redes Sociais</h3>
+<h4>Minhas Redes Sociais</h4>
 
 <div style="display: inline-block;">
     <a href="https://api.whatsapp.com/send?phone=5513981279751&text=Ol%C3%A1%20Alexsandro%2C%20tudo%20bem%3F" target="_blank">
@@ -31,28 +37,16 @@ Olá, tenho 26 anos e resido na cidade de Praia Grande-SP. No ano de 2016 me for
      </a>   
 </div>
 
-##
-<h3>Tecnologias do meu dia a dia </h3>
-<div style="display: inline-block;">
-    <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML">
-    <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-        alt="CSS">
-    <img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-        alt="Sass">
-    <img height="30"
-        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="Bootstrap">
-    <img height="30"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-thebadge&logo=javascript&logoColor=black"
-        alt="JAVASCRIPT">
-    <img height="30"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-        alt="Typescript">
-    <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe"
-        alt="React">
+  <br>
+<div>
+    <a href="https://github.com/AlexsandroNeves"></a>
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=AlexsandroNeves&show_icons=true&theme=dracula">
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroNeves&show_icons=true&theme=dracula">
 </div>
-<div> 
- 
+
+##
+
 <img src="https://github.com/AlexsandroNeves/AlexsandroNeves/blob/output/github-contribution-grid-snake.svg">
 </div>
