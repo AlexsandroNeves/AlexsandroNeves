@@ -4,8 +4,9 @@
 <div>
   <p align="left"> 
   <h4>Um pouco sobre mim:</h4>
-  
-  Olá, tenho 26 anos e resido na cidade de Praia Grande-SP. Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista, trabalho com desenvolvimento aproximadamente 4 anos. Durante esse tempo, trabalhei com diversas tecnologias.  
+Olá! Sou um profissional de 27 anos, atualmente residindo em Praia Grande-SP. Em 2016, conquistei minha formação como técnico em Informática pelo Centro Paula Souza, e em 2020, obtive meu diploma em Análise e Desenvolvimento de Sistemas pela Universidade Paulista. Tenho mais de 4 anos de experiência como desenvolvedor front-end, trabalhando com diversas tecnologias.
+
+Além disso, possuo a certificação VTEX, consolidando meu conhecimento em e-commerce e aprimorando minhas habilidades no desenvolvimento de soluções integradas. Atualmente, estou empenhado em expandir meu expertise como desenvolvedor, buscando a transição para o perfil Full stack. Meu comprometimento com a aprendizagem contínua e minha paixão por inovação impulsionam minha jornada profissional, preparando-me para enfrentar desafios e contribuir significativamente para projetos mais abrangentes.
   </p>
   
   
