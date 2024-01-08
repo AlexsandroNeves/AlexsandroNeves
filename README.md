@@ -15,8 +15,9 @@ Além disso, possuo a certificação VTEX, consolidando meu conhecimento em e-co
   
    
     
-  - Back-end: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" Title="Mongodb"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="Mysql">
-  
+  - Back-end: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express">
+    
+  - Banco de Dados: <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" Title="Mongodb"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="Mysql">
     
    - Design:<img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=figma" Title="Figma"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=xd" Title="Xd">
   
