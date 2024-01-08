@@ -4,9 +4,25 @@
 <div>
   <p align="left"> 
   <h4>Um pouco sobre mim:</h4>
-Olá! Sou um profissional de 27 anos, atualmente residindo em Praia Grande-SP. Em 2016, conquistei minha formação como técnico em Informática pelo Centro Paula Souza, e em 2020, obtive meu diploma em Análise e Desenvolvimento de Sistemas pela Universidade Paulista. Tenho mais de 4 anos de experiência como desenvolvedor front-end, trabalhando com diversas tecnologias.
+Olá, meu nome é Alexsandro e sou um Desenvolvedor Front-end Pleno com formação em Análise e Desenvolvimento de Sistemas. Possuo cerca de 5 anos de experiência, concentrando-me principalmente na criação de sites, plataformas e aplicativos móveis. Ao longo da minha carreira, tive a oportunidade de coordenar equipes e auxiliar novos membros na empresa.
 
-Além disso, possuo a certificação VTEX, consolidando meu conhecimento em e-commerce e aprimorando minhas habilidades no desenvolvimento de soluções integradas. Atualmente, estou empenhado em expandir meu expertise como desenvolvedor, buscando a transição para o perfil Full stack. Meu comprometimento com a aprendizagem contínua e minha paixão por inovação impulsionam minha jornada profissional, preparando-me para enfrentar desafios e contribuir significativamente para projetos mais abrangentes.
+Minha expertise inclui aprimoramento de E-commerce e o desenvolvimento de novas funcionalidades. Estou confiante de que minha experiência pode agregar valor à sua equipe ou empresa.
+
+Certificação VTEX: : https://hubmaster.app/certificados/exibir/6385fe4d82fc5
+
+Minhas habilidades abrangem HTML, CSS, jQuery, JavaScript, TypeScript, Sass, Bootstrap, React, Node, GraphQL, Bancos de Dados, WordPress, Shopify, VTEX, VTEX CMS, VTEX IO, NUVEMSHOP e LOJA INTEGRADA.
+
+Durante minha trajetória profissional, tive o privilégio de contribuir para diversos projetos, alguns dos quais incluem:
+
+Criação de aplicativos móveis para clientes como o Santos Futebol Clube, Tecnoponta Cursos, Mais Receitas, BS Studio e COC NovoMundo.
+
+Desenvolvimento de sites institucionais para clientes como Oficial da Pesca, RM Máquinas e TvLar.
+
+Implementação e aprimoramento de lojas virtuais para clientes como Lojamob, FastObra, Farmácia São João, Tito Farma, Webjoias, Sawary, Cristais Tavares, Giassi, Venture Shop, Agrotrator, Elian, Modab, Docile, RM Máquinas, entre outros.
+
+Estou entusiasmado com a possibilidade de aplicar minha experiência e habilidades para contribuir positivamente para seus projetos e metas.
+​
+
   </p>
   
   
