@@ -14,11 +14,11 @@ Minhas habilidades abrangem HTML, CSS, jQuery, JavaScript, TypeScript, Sass, Boo
 
 Durante minha trajetória profissional, tive o privilégio de contribuir para diversos projetos, alguns dos quais incluem:
 
-Criação de aplicativos móveis para clientes como o Santos Futebol Clube, Tecnoponta Cursos, Mais Receitas, BS Studio e COC NovoMundo.
+Criação de aplicativos móveis para clientes como: Santos Futebol Clube, Tecnoponta Cursos, Mais Receitas, BS Studio e COC NovoMundo.
 
-Desenvolvimento de sites institucionais para clientes como Oficial da Pesca, RM Máquinas e TvLar.
+Desenvolvimento de sites institucionais para clientes: Oficial da Pesca, RM Máquinas e TvLar.
 
-Implementação e aprimoramento de lojas virtuais para clientes como Lojamob, FastObra, Farmácia São João, Tito Farma, Webjoias, Sawary, Cristais Tavares, Giassi, Venture Shop, Agrotrator, Elian, Modab, Docile, RM Máquinas, entre outros.
+Implementação e aprimoramento de lojas virtuais para clientes: Lojamob, FastObra, Farmácia São João, Tito Farma, Webjoias, Sawary, Cristais Tavares, Giassi, Venture Shop, Agrotrator, Elian, Modab, Docile, RM Máquinas, entre outros.
 
 Estou entusiasmado com a possibilidade de aplicar minha experiência e habilidades para contribuir positivamente para seus projetos e metas.
 ​
