@@ -39,7 +39,7 @@ Estou entusiasmado com a possibilidade de aplicar minha experiência e habilidad
    - Design:<img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=figma" Title="Figma"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=xd" Title="Xd">
   
 
-   - Ecommerce:<img align="center" alt="Eduardo-Node" height="40" width="70" src="https://github.com/AlexsandroNeves/AlexsandroNeves/assets/53442386/e017e281-eff3-4814-aca9-1dbc8e14cbb1" Title="Vtex IO"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" Title="Wordpress"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://w7.pngwing.com/pngs/784/183/png-transparent-shopify-logo-e-commerce-business-super-sale-angle-text-service-thumbnail.png" Title="Shopify">
+   - Ecommerce:<img align="center" alt="Eduardo-Node" height="40" width="70" src="https://github.com/AlexsandroNeves/AlexsandroNeves/assets/53442386/e017e281-eff3-4814-aca9-1dbc8e14cbb1" Title="Vtex IO"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" Title="Wordpress"><img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://github.com/AlexsandroNeves/AlexsandroNeves/assets/53442386/8dd57846-2941-4ba6-bb60-3836906a8a23" Title="Shopify">
 </div>
 </div>
 
