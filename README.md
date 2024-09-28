@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Olá, eu sou Alexsandro Neves 😎</h1>
 
-<div style="display:flex;align-items:center;justify-content:center;"> 
+<div style="display:flex;align-items:center;justify-content:center;">   
 <div>
   <p align="left"> 
   <h4>Um pouco sobre mim:</h4>
