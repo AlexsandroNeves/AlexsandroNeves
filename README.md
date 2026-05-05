@@ -4,7 +4,7 @@
 <div>
   <p align="left"> 
   <h4>Um pouco sobre mim:</h4>
-Olá, meu nome é Alexsandro e sou um Desenvolvedor Front-end Pleno com formação em Análise e Desenvolvimento de Sistemas. Possuo cerca de 5 anos de experiência, concentrando-me principalmente na criação de sites, plataformas e aplicativos móveis. Ao longo da minha carreira, tive a oportunidade de coordenar equipes e auxiliar novos membros na empresa.
+Olá, meu nome é Alexsandro e sou um Desenvolvedor Front-end Pleno com formação em Análise e Desenvolvimento de Sistemas. Possuo cerca de 6 anos de experiência, concentrando-me principalmente na criação de sites, plataformas e aplicativos móveis. Ao longo da minha carreira, tive a oportunidade de coordenar equipes e auxiliar novos membros na empresa.
 
 Minha expertise inclui aprimoramento de E-commerce e o desenvolvimento de novas funcionalidades. Estou confiante de que minha experiência pode agregar valor à sua equipe ou empresa.
 
